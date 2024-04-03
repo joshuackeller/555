@@ -1,0 +1,10 @@
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.hidden/
+*.rds
+*.Rds
+test_set_results.csv
